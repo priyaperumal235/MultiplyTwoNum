@@ -10,6 +10,7 @@ namespace MultiplyTwoNum
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Multiplication of two numbers");
 		}
 	}
 }
